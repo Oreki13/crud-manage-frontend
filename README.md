@@ -43,7 +43,11 @@ Why did I make this application, because I was thinking about what simple applic
 2. Type `git clone https://github.com/Oreki13/crud-manage-frontend.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Before run this, you must run crud-management-backend
-5. Type `npm start` for run this app
+5. create .env file and add this line :
+
+   REACT_APP_URL = 'backend-url'
+
+6. Type `npm start` for run this app
 
 ## Screenshots
 
