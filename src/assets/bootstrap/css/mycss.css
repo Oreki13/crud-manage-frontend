@@ -1,0 +1,14 @@
+.image-box {
+  border: 1px solid #e5e5e5;
+  height: 165px;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.image-class {
+  width: 200px;
+  height: 165px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
